@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**Aayushtyagi550/Aayushtyagi550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on improving my Data Structures & Algorithms skills and solving LeetCode problems.<br><br>👯 I’m looking to collaborate on beginner-friendly open source projects and Java-based applications.<br><br>🤝 I’m looking for help with advanced DSA concepts and building full-stack projects.<br><br>🌱 I’m currently learning Java, problem solving, and backend development.<br><br>💬 Ask me about Java, LeetCode problems, and basic DSA concepts.<br><br>⚡ Fun fact: I enjoy solving coding problems daily and turning ideas into projects.
 
 
@@ -29,5 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Aayushtyagi550&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- ⚡ Fun fact: ...
--->
