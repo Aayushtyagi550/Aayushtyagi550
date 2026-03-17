@@ -1,7 +1,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Developer;DSA+Enthusiast;LeetCode+Problem+Solver;Backend+Development+Learner;Future+Software+Engineer" />
 </p>
-# 👋 Hey, I'm Aayush Tyagi
+
+## 👋 Hey, I'm Aayush Tyagi
 
 💻 Computer Science student passionate about **problem solving and backend development**.  
 🚀 Currently focused on **Data Structures & Algorithms and competitive programming**.
