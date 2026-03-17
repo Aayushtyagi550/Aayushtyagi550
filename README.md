@@ -1,10 +1,7 @@
 <p align="center">
-
-
-
-<img src="https://readme-typing-svg .herokuapp.com?font=Fira+Code&size=28& duration=3500&pause=800&color=38BDF8& center=true&vCenter=true&width=750&li nes=Java+Developer;DSA+Enthusiast;Lee tCode+Problem+Solver;Backend+Developme nt+Learner;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Developer;DSA+Enthusiast;LeetCode+Problem+Solver;Backend+Development+Learner;Future+Software+Engineer" />
 </p>
-# 💫 About Me:
+# 💫 Hey! I
 🔭 I’m currently working on improving my Data Structures & Algorithms skills and solving LeetCode problems.<br><br>👯 I’m looking to collaborate on beginner-friendly open source projects and Java-based applications.<br><br>🤝 I’m looking for help with advanced DSA concepts and building full-stack projects.<br><br>🌱 I’m currently learning Java, problem solving, and backend development.<br><br>💬 Ask me about Java, LeetCode problems, and basic DSA concepts.<br><br>⚡ Fun fact: I enjoy solving coding problems daily and turning ideas into projects.
 
 
