@@ -1,6 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Developer;DSA+Enthusiast;LeetCode+Problem+Solver;Backend+Development+Learner;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;DSA+Enthusiast;LeetCode+Problem+Solver;Backend+Development+Learner;Future+Software+Engineer" />
 </p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aayushtyagi550)
+<a href="https://stackoverflow.com/users/15864740/abanoub-asaad"><img src="https://stackoverflow.com/users/flair/15864740.png?theme=dark" width="208" height="58" alt="Profile for Abanoub Asaad on Stack Overflow" title="Profile for Abanoub Asaad on Stack Overflow"></a> <img width="100" height="58" alt="gif" src="https://github.com/Abanoub-Asaad/Abanoub-Asaad/blob/main/Images/pepe-frog.gif?raw=true" /> 
+
 
 ## 👋 Hey, I'm Aayush Tyagi
 
