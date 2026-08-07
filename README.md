@@ -35,11 +35,14 @@
   <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,nodejs,express,react,mongodb,mysql,aws,vercel,netlify,github&perline=8" />
 </p>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasudev7891&theme=tokyonight" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aayushtyagi550&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aayushtyagi550&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushtyagi550&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev7891&layout=compact&theme=tokyonight" />
+</p>
 
 
 ## 🌐 Socials:
