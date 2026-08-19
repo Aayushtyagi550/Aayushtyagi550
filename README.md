@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=700&color=E62429&center=true&vCenter=true&width=800&lines=With+great+code+comes+great+responsibility;Full+Stack+Developer+(MERN)+%7C+DSA+Enthusiast;3-Star+CodeChef+%7C+400%2B+LeetCode+Solved;AWS+%26+Azure+Certified;Swinging+Through+Bugs+One+Commit+at+a+Time" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=700&color=E62429&center=true&vCenter=true&width=800&lines=With+great+code+comes+great+responsibility;Full+Stack+Developer+(MERN)+%7C+DSA+Enthusiast;AWS+%26+Azure+Certified;Swinging+Through+Bugs+One+Commit+at+a+Time" />
 
 <br/><br/>
 
