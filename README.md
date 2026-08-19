@@ -121,3 +121,10 @@ motto: "With great code comes great responsibility."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:e62429,100:1f4fd8&height=110&section=footer" width="100%"/>
 
 </div>
+<div align="center">
+
+### 🐍 Contribution Web
+
+<img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
