@@ -83,10 +83,10 @@ motto: "With great code comes great responsibility."
 ### 🕷️ Web-Shooters (Projects)
 
 <div align="center">
-<a href="https://github.com/aayushtyagi550"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushtyagi550&repo=SymptoGenie&theme=dark&border_color=e62429&hide_border=false"/></a>
-<a href="https://github.com/aayushtyagi550"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushtyagi550&repo=MelodyVerse&theme=dark&border_color=1f4fd8&hide_border=false"/></a>
+<a href="https://github.com/Aayushtyagi550/-SymptoGenie-A-health-monitoring-platform-"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aayushtyagi550&repo=-SymptoGenie-A-health-monitoring-platform-&theme=dark&border_color=e62429&hide_border=false"/></a>
+<a href="https://github.com/Aayushtyagi550/Medlodyverse-music-streaming-site"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aayushtyagi550&repo=Medlodyverse-music-streaming-site&theme=dark&border_color=1f4fd8&hide_border=false"/></a>
 <br/>
-<a href="https://github.com/aayushtyagi550"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushtyagi550&repo=TaskFlow&theme=dark&border_color=e62429&hide_border=false"/></a>
+<a href="https://github.com/Aayushtyagi550/my-task-manager"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aayushtyagi550&repo=my-task-manager&theme=dark&border_color=e62429&hide_border=false"/></a>
 </div>
 
 | Project | Description | Stack |
@@ -95,8 +95,6 @@ motto: "With great code comes great responsibility."
 | 🎵 **MelodyVerse** | AI-driven music streaming platform | MERN |
 | ✅ **TaskFlow** | Full-stack task management app | MERN |
 | 🛡️ **Trident Guard** | Zero-trust auth platform — Top 10, Tally CodeBrewers 2026 | Full Stack Security |
-
-<img src="https://raw.githubusercontent.com/aayushtyagi550/aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
 
 ### 💻 Suit Tech (Stack)
 
