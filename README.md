@@ -1,14 +1,16 @@
 <!--
-  🕷️ SETUP (read once):
-  1. Create a repo named EXACTLY your username → e.g. github.com/aayushtyagi550/aayushtyagi550
-  2. Upload this README.md to the repo root, AND upload the /assets folder (spiderman-banner.svg, web-divider.svg) to the repo too.
-  3. Replace every "aayushtyagi550" below with your real GitHub username if different.
-  4. The banner/divider below are LIVE animated SVGs (CSS keyframes render natively since GitHub displays <img src="*.svg"> as a real image) — no JS needed, no broken CSS.
+  🕷️ SETUP:
+  1. Repo must be named EXACTLY your username → github.com/Aayushtyagi550/Aayushtyagi550
+  2. Upload this README.md to the repo root, and the WHOLE /assets folder alongside it
+     (spiderman-banner.svg, web-divider.svg, project-web.svg, skill-web.svg).
+  3. These four SVGs are self-contained animated files — no third-party API, nothing that can
+     go down or rate-limit. If they don't render, it's only ever a wrong path/branch/case,
+     never a dead server.
 -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aayushtyagi550/aayushtyagi550/main/assets/spiderman-banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/main/assets/spiderman-banner.svg" width="100%"/>
 
 <br/>
 
@@ -27,7 +29,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/aayushtyagi550/aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
 
 ### 🕸️ Origin Story
 
@@ -49,11 +51,12 @@ motto: "With great code comes great responsibility."
 - ☁️ **AWS Certified Cloud Practitioner** & **Microsoft AZ-900 (Azure Fundamentals)**
 - 🏆 Top 10 — **Tally CodeBrewers 2026 Hackathon** *(Trident Guard — zero-trust auth platform)*
 - 🚀 Qualified Rounds 1 & 2 — **Flipkart Grid 8.0 (2026)**
-
+- 🌱 Active member — **GDG MIET**
+- 🧩 3⭐ CodeChef | 400+ LeetCode problems solved
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/aayushtyagi550/aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
 
 ### 🎯 Current Web (What I'm Up To)
 
@@ -78,23 +81,21 @@ motto: "With great code comes great responsibility."
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/aayushtyagi550/aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
 
 ### 🕷️ Web-Shooters (Projects)
 
-<div align="center">
-<a href="https://github.com/Aayushtyagi550/-SymptoGenie-A-health-monitoring-platform-"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aayushtyagi550&repo=-SymptoGenie-A-health-monitoring-platform-&theme=dark&border_color=e62429&hide_border=false"/></a>
-<a href="https://github.com/Aayushtyagi550/Medlodyverse-music-streaming-site"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aayushtyagi550&repo=Medlodyverse-music-streaming-site&theme=dark&border_color=1f4fd8&hide_border=false"/></a>
-<br/>
-<a href="https://github.com/Aayushtyagi550/my-task-manager"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aayushtyagi550&repo=my-task-manager&theme=dark&border_color=e62429&hide_border=false"/></a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/main/assets/project-web.svg" width="100%"/>
+</p>
 
-| Project | Description | Stack |
-|---|---|---|
-| 🩺 **SymptoGenie** | AI-powered healthcare assistant that analyzes symptoms | MERN, AI/NLP |
-| 🎵 **MelodyVerse** | AI-driven music streaming platform | MERN |
-| ✅ **TaskFlow** | Full-stack task management app | MERN |
-| 🛡️ **Trident Guard** | Zero-trust auth platform — Top 10, Tally CodeBrewers 2026 | Full Stack Security |
+<p align="center">
+  <a href="https://github.com/Aayushtyagi550/-SymptoGenie-A-health-monitoring-platform-">SymptoGenie</a> ·
+  <a href="https://github.com/Aayushtyagi550/Medlodyverse-music-streaming-site">MelodyVerse</a> ·
+  <a href="https://github.com/Aayushtyagi550/my-task-manager">TaskFlow</a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
 
 ### 💻 Suit Tech (Stack)
 
@@ -107,36 +108,17 @@ motto: "With great code comes great responsibility."
   <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Certified-1f4fd8?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/aayushtyagi550/aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
 
-### 📊 Spider-Sense Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushtyagi550&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=e62429&icon_color=1f4fd8&text_color=e8e8e8" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushtyagi550&layout=compact&theme=dark&hide_border=true&title_color=e62429&text_color=e8e8e8" width="35%"/>
-</p>
+### 📊 Spider-Sense Skill Web
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushtyagi550&theme=dark&hide_border=true&ring=e62429&fire=1f4fd8&currStreakLabel=e62429" width="65%"/>
+  <img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/main/assets/skill-web.svg" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushtyagi550&theme=dark&no-frame=true&row=1&column=7&title.color=e62429"/>
-</p>
+<img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushtyagi550&theme=redical&hide_border=true" width="90%"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/aayushtyagi550/aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
-
-
-
-### 🐍 Contribution Web
-
-<img src="https://raw.githubusercontent.com/aayushtyagi550/aayushtyagi550/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<br/><br/>
+<div align="center">
 
 💬 *"Whatever life holds in store for me, I will never forget these words: with great power comes great responsibility."*
 
