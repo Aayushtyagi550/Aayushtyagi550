@@ -51,8 +51,7 @@ motto: "With great code comes great responsibility."
 - ☁️ **AWS Certified Cloud Practitioner** & **Microsoft AZ-900 (Azure Fundamentals)**
 - 🏆 Top 10 — **Tally CodeBrewers 2026 Hackathon** *(Trident Guard — zero-trust auth platform)*
 - 🚀 Qualified Rounds 1 & 2 — **Flipkart Grid 8.0 (2026)**
-- 🌱 Active member — **GDG MIET**
-- 🧩 3⭐ CodeChef | 400+ LeetCode problems solved
+
 
 <br clear="right"/>
 
