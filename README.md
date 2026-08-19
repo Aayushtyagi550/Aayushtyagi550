@@ -29,7 +29,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Aayushtyagi550/Aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
+
 
 ### 🕸️ Origin Story
 
