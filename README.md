@@ -25,12 +25,9 @@
 
 <br/><br/>
 
-<img src="https://visitcount.itsvg.in/api?id=Aayushtyagi550&icon=8&color=2"/>
+
 
 </div>
-
-
-
 ### 🕸️ Origin Story
 
 ```yaml
