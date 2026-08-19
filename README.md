@@ -49,8 +49,7 @@ motto: "With great code comes great responsibility."
 - ☁️ **AWS Certified Cloud Practitioner** & **Microsoft AZ-900 (Azure Fundamentals)**
 - 🏆 Top 10 — **Tally CodeBrewers 2026 Hackathon** *(Trident Guard — zero-trust auth platform)*
 - 🚀 Qualified Rounds 1 & 2 — **Flipkart Grid 8.0 (2026)**
-- 🌱 Active member — **GDG MIET**
-- 🧩 3⭐ CodeChef | 400+ LeetCode problems solved
+
 
 <br clear="right"/>
 
@@ -133,20 +132,7 @@ motto: "With great code comes great responsibility."
 
 <img src="https://raw.githubusercontent.com/aayushtyagi550/aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
 
-### 🧮 LeetCode / CodeChef
 
-<p align="center">
-  <img src="https://leetcode-stats-eight.vercel.app/api?username=aayushtyagi550&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-3⭐-1f4fd8?style=for-the-badge&logo=codechef&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-e62429?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/aayushtyagi550/aayushtyagi550/main/assets/web-divider.svg" width="100%"/>
-
-<div align="center">
 
 ### 🐍 Contribution Web
 
